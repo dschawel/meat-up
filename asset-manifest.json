@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/meat-up/static/css/main.1ea0efb8.chunk.css",
+    "main.js": "/meat-up/static/js/main.487eb0f9.chunk.js",
+    "main.js.map": "/meat-up/static/js/main.487eb0f9.chunk.js.map",
+    "runtime-main.js": "/meat-up/static/js/runtime-main.b11787c5.js",
+    "runtime-main.js.map": "/meat-up/static/js/runtime-main.b11787c5.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/meat-up/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.15f560f0.chunk.js": "/meat-up/static/js/2.15f560f0.chunk.js",
+    "static/js/2.15f560f0.chunk.js.map": "/meat-up/static/js/2.15f560f0.chunk.js.map",
+    "index.html": "/meat-up/index.html",
+    "precache-manifest.c51202a13565e9108b6de68eee6cc480.js": "/meat-up/precache-manifest.c51202a13565e9108b6de68eee6cc480.js",
+    "service-worker.js": "/meat-up/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/meat-up/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.1ea0efb8.chunk.css.map": "/meat-up/static/css/main.1ea0efb8.chunk.css.map",
+    "static/js/2.15f560f0.chunk.js.LICENSE.txt": "/meat-up/static/js/2.15f560f0.chunk.js.LICENSE.txt",
+    "static/media/Calendar.png": "/meat-up/static/media/Calendar.da5a4491.png",
+    "static/media/Event-tst.png": "/meat-up/static/media/Event-tst.810ba803.png",
+    "static/media/Event3.png": "/meat-up/static/media/Event3.e8d6061f.png",
+    "static/media/FeaturedEvent2.png": "/meat-up/static/media/FeaturedEvent2.6ff96adb.png",
+    "static/media/App.css": "/meat-up/static/media/scroll_copy.ae72fab8.jpg",
+    "static/media/index.css": "/meat-up/static/media/Luminari-Regular.97e78dee.woff",
+    "static/media/method-draw-image.png": "/meat-up/static/media/method-draw-image.0db62c4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b11787c5.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.15f560f0.chunk.js",
+    "static/css/main.1ea0efb8.chunk.css",
+    "static/js/main.487eb0f9.chunk.js"
+  ]
+}
